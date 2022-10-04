@@ -12,7 +12,6 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucantin&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=Lucantin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
