@@ -3,7 +3,9 @@
 
 
 <div align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucantin&layout=compact=true&theme=tokyonight&count_private=true" alt="lucantin"/> <br />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucantin&layout=compact=true&theme=tokyonight&count_private=true" alt="lucantin"/> 
+  <br />
+  <br />
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=lucantin&theme=tokyonight&show_icons=true&count_private=true"  alt="lucantin"/>
 </div>
 
